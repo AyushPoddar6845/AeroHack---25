@@ -25,8 +25,7 @@
 ## 🚀 Quick Demo
 
 ```bash
-git clone https://github.com/your-username/rubiks-cube-solver.git
-cd rubiks-cube-solver
+git clone https://github.com/AyushPoddar6845/AeroHack---25.git
 python3 main.py
 ```
 
