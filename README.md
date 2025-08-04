@@ -463,12 +463,6 @@ python3 -m flake8        # Code quality check
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Herbert Kociemba** - Original two-phase algorithm
@@ -484,7 +478,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ for AeroHack 2025**
 
-[🐛 Report Bug](https://github.com/your-username/rubiks-cube-solver/issues) • [💡 Request Feature](https://github.com/your-username/rubiks-cube-solver/issues) • [📖 Documentation](https://github.com/your-username/rubiks-cube-solver/wiki)
+[🐛 Report Bug](https://github.com/AyushPoddar6845/AeroHack---25/issues) • [💡 Request Feature](https://github.com/AyushPoddar6845/AeroHack---25/issues) 
 
 ---
 
