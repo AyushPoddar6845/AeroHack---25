@@ -26,6 +26,7 @@
 
 ```bash
 git clone https://github.com/AyushPoddar6845/AeroHack---25.git
+cd AeroHack---25
 python3 main.py
 ```
 
@@ -200,6 +201,7 @@ class CubeState:
 ```bash
 # Clone repository
 git clone https://github.com/AyushPoddar6845/AeroHack---25.git
+cd AeroHack---25
 
 # Run solver
 python3 main.py
@@ -452,8 +454,9 @@ We welcome contributions! Here's how you can help:
 
 ### **Development Setup**
 ```bash
-git clone https://github.com/your-username/rubiks-cube-solver.git
-cd rubiks-cube-solver
+git clone https://github.com/AyushPoddar6845/AeroHack---25.git
+cd AeroHack---25
+
 python3 -m pytest tests/  # Run test suite
 python3 -m flake8        # Code quality check
 ```
